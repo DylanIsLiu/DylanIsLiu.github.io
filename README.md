@@ -1,6 +1,6 @@
 # MY ZONE
->`when the mask off , you will know I am the future`
-```javascript
+>when the mask off , you will know I am the future
+```java
     while(myLife.length > 0){
       sleep();
       eat();
